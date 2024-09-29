@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrZvie
-- 👀 I’m interested in learning to become front end developer
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in learning to become cloud engineer and system administrator
+- 🌱 I’m currently doing my capstone project 
 - 💞️ I’m looking for someone who can teach me or give some advice or knowledge
 - 📫 Just email me in ddy010718@gmail.com
 
