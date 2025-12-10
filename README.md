@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrZvie
-- 👀 I’m interested in learning to become cloud engineer and system administrator
+- 👀 I’m interested in learning to become Backend Developer and System Administrator
 - 🌱 I’m currently doing my capstone project 
 - 📫 Just email me in ddy010718@gmail.com
 
